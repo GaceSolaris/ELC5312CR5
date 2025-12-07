@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Dec  7 13:48:37 2025
+# Process ID: 23800
+# Current directory: E:/ELC5312P5/project5/project5.runs/synth_1
+# Command line: vivado.exe -log mcs_top_vanilla.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mcs_top_vanilla.tcl
+# Log file: E:/ELC5312P5/project5/project5.runs/synth_1/mcs_top_vanilla.vds
+# Journal file: E:/ELC5312P5/project5/project5.runs/synth_1\vivado.jou
+# Running On        :SOLARIS-PC
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
+# CPU Frequency     :3792 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :51398 MB
+# Swap memory       :23622 MB
+# Total Virtual     :75020 MB
+# Available Virtual :49840 MB
+#-----------------------------------------------------------
+source mcs_top_vanilla.tcl -notrace

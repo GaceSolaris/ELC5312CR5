@@ -1,0 +1,37 @@
+{
+  "name": "project5_app",
+  "type": "PLATFORM",
+  "configuration": {
+    "description": "",
+    "xsa": "E:\\ELC5312P5\\generatedfiles\\project5_tempv2.xsa",
+    "xsaPathInPlatform": "project5_app\\hw\\project5_tempv2.xsa",
+    "emulationXsa": "",
+    "emulationXsaPathInPlatform": "",
+    "isCustomFSBL": false,
+    "fsblPath": "",
+    "pmufwElf": "",
+    "flow": "EMBEDDED",
+    "processorsMap": {
+      "microblaze_I": "microblaze"
+    },
+    "supportedFamily": "fpga",
+    "componentType": "PLATFORM",
+    "domains": [
+      {
+        "name": "standalone_microblaze_I",
+        "displayName": "standalone_microblaze_I",
+        "processor": "microblaze_I",
+        "cpuType": "microblaze",
+        "cpuInstance": "microblaze_I",
+        "os": "standalone",
+        "appTemplate": "empty_application",
+        "isBootDomain": false,
+        "qemuData": "",
+        "qemuArgsFile": "",
+        "pmcQemuArgsFile": "",
+        "isBSPGenReq": false
+      }
+    ],
+    "emptyToolchainConfiguration": []
+  }
+}
